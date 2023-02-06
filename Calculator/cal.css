@@ -12,13 +12,13 @@ body {
     position: absolute;
     display: flex;
     /* justify-content: center; */
-    left: 36%;
-    padding: 0px;
+    left: 43%;
+    padding: 3px;
     margin-left: 4px;
     top: 25%;
     align-items: center;
     background-color: #666;
-    width: 27%;
+    width: 13%;
     height: 5%;
 }
 button{
